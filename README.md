@@ -1,3 +1,3 @@
 # PanoramaPubScraper 
-Works as a module
+Works as a module <br>
 Requires `bs4`, `requests`
